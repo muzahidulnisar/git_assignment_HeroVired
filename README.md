@@ -36,7 +36,7 @@
     d. git tag -a version2 -m " Version 2.0"
     e. git push origin version2
 
-#Q2
+# Q2
 
 The ubuntu OS of size 263MB is added to LFS file.
 
@@ -62,7 +62,7 @@ The ubuntu OS of size 263MB is added to LFS file.
    ```bash
    git push origin lfs
 
-#Q3
+# Q3
 
 1. create a new branch ‘geometry-calculator’
 2. Create a new branch named "feature/circle-area" to work on the circle area feature
